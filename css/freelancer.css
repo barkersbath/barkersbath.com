@@ -22,6 +22,14 @@ a.active {
     color: #ffffff;
 }
 
+a.email,
+a.email:hover,
+a.email:focus,
+a.email:active,
+a.email.active {
+    color: #18bc9c;
+}
+
 .navbar a {
     text-decoration: none;
 }
